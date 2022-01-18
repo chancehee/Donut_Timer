@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DonutTimer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/strawberry_milk</item>
+        <item name="android:windowBackground">@color/strawberry_milk</item>
+    </style>
+</resources>
